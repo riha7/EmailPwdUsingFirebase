@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/EmailPwdUsingFirebase/static/css/main.8d5eb434.chunk.css",
+    "main.js": "/EmailPwdUsingFirebase/static/js/main.dc7c6884.chunk.js",
+    "main.js.map": "/EmailPwdUsingFirebase/static/js/main.dc7c6884.chunk.js.map",
+    "runtime-main.js": "/EmailPwdUsingFirebase/static/js/runtime-main.d08694e7.js",
+    "runtime-main.js.map": "/EmailPwdUsingFirebase/static/js/runtime-main.d08694e7.js.map",
+    "static/js/2.2cf63aa6.chunk.js": "/EmailPwdUsingFirebase/static/js/2.2cf63aa6.chunk.js",
+    "static/js/2.2cf63aa6.chunk.js.map": "/EmailPwdUsingFirebase/static/js/2.2cf63aa6.chunk.js.map",
+    "static/js/3.daaafd2d.chunk.js": "/EmailPwdUsingFirebase/static/js/3.daaafd2d.chunk.js",
+    "static/js/3.daaafd2d.chunk.js.map": "/EmailPwdUsingFirebase/static/js/3.daaafd2d.chunk.js.map",
+    "index.html": "/EmailPwdUsingFirebase/index.html",
+    "static/css/main.8d5eb434.chunk.css.map": "/EmailPwdUsingFirebase/static/css/main.8d5eb434.chunk.css.map",
+    "static/js/2.2cf63aa6.chunk.js.LICENSE.txt": "/EmailPwdUsingFirebase/static/js/2.2cf63aa6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d08694e7.js",
+    "static/js/2.2cf63aa6.chunk.js",
+    "static/css/main.8d5eb434.chunk.css",
+    "static/js/main.dc7c6884.chunk.js"
+  ]
+}
