@@ -14,7 +14,11 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-image: url('../src/Login\ authenticatn\ firebase/dist/images/bg.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  background-position: center;
   min-height: 100vh;
   display: flex;
   flex-direction: column;

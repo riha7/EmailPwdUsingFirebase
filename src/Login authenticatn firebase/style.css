@@ -1,0 +1,53 @@
+.formstyle{
+        
+        width: 40%;
+        height: 200px;
+        background-color: rgba(241, 202, 232, 0.123);
+        box-shadow: 5px 5px 8px seagreen;
+        opacity: 0.8;
+        border-radius: 6px;
+}
+input{
+        padding: 6px;
+}
+
+.btn-primary{
+        padding: 5px;
+        cursor: pointer;
+        background-color: black;
+        color: blanchedalmond;
+        border-radius: 6px;
+        border: none;
+        margin: 2px;
+        animation: animate 2s linear infinite;
+}
+.btn-outline{
+        border:2px solid green;
+        background-color: blanchedalmond;
+        color:green;
+        padding: 5px;
+        border-radius: 6px;
+}
+.btn-outline::focus{
+        background-color: hotpink;
+}
+@keyframes animate {
+        0%{
+                background-color: violet;
+        }
+        20%{
+                background-color: red;
+        }
+        40%{
+                background-color: yellowgreen;
+        }
+        60%{
+                background-color: blueviolet;
+        }
+        80%{
+                background-color: cyan;
+        }
+        100%{
+                background-color: orange;
+        }
+}
